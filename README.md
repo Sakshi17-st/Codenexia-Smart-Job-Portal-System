@@ -213,15 +213,15 @@ Important test cases include:
 
  15. Milestones
 
-1. Problem identification and solution design
-2. Website architecture and database design
-3. HTML/CSS user interface development
-4. PHP backend development
-5. MySQL database integration
-6. User registration and login module
-7. User profile management
-8. Job listing and category module
-9. Job details and application module
+. Problem identification and solution design
+. Website architecture and database design
+. HTML/CSS user interface development
+. PHP backend development
+. MySQL database integration
+. User registration and login module
+. User profile management
+. Job listing and category module
+. Job details and application module
 
 
 16. Project Architecture Summary
