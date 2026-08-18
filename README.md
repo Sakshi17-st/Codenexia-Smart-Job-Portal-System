@@ -222,12 +222,7 @@ Important test cases include:
 7. User profile management
 8. Job listing and category module
 9. Job details and application module
-10. Admin authentication and dashboard
-11. Job posting and request management
-12. JavaScript interactions and theme functionality
-13. Testing and debugging
-14. Documentation and project deployment
-15. Future upgrade toward AI-based job recommendation
+
 
 16. Project Architecture Summary
 
